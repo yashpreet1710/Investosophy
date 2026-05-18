@@ -86,3 +86,27 @@ investosophy/
 │   ├── context/
 │   └── pages/
 └── ...
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! Feel free to open issues for bugs or feature requests.
+
+---
+
+## ⚠️ Disclaimer
+
+Investosophy is for **educational purposes only**. We are not SEBI registered investment advisors. Please consult a financial advisor before making investment decisions.
+
+---
+
+## 📄 License
+
+MIT License — feel free to use and modify!
+
+---
+
+<div align="center">
+Made with ❤️ in India 🇮🇳 by <a href="https://github.com/yashpreet1710">Yashpreet</a>
+</div>
