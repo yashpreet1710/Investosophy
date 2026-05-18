@@ -74,3 +74,15 @@ Open `http://localhost:5173` 🚀
 ---
 
 ## 📁 Project Structure
+investosophy/
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── render.yaml
+└── frontend/
+├── src/
+│   ├── api/
+│   ├── components/
+│   ├── context/
+│   └── pages/
+└── ...
