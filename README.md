@@ -2,7 +2,7 @@
 
 # Investosophy 📈
 
-### Investment Learning & Portfolio Tracker for Indian Investors 🇮🇳
+### Investment Learning & Portfolio Tracker for Investors
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,7 +16,7 @@
 
 ## 🚀 About
 
-Investosophy is a **free, open-source** investment learning and portfolio tracking web app built specifically for **Indian investors**. Track NSE/BSE stocks, learn investing concepts, and plan your financial goals — all in one place.
+Investosophy is a **free, open-source** investment learning and portfolio tracking web app built specifically for **Investors**. Track NSE/BSE stocks, learn investing concepts, and plan your financial goals — all in one place.
 
 ---
 
